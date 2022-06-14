@@ -1,5 +1,6 @@
 # nblkStudy.github.io
 ## 机器学习比赛项目————服装分类
+### 因为训练集和测试集太大，无法完整上传
 
 #### data_processing.py 数据处理代码：将特征提取出来
 #### model_train.py 模型训练代码：利用60000个训练集训练XGBoost
